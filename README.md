@@ -19,14 +19,14 @@ more attrs to see values/attr,you can choose attr you need<br>
 
 you can also change attr by calling method like,more details to see PanelView.java
 ```
-setPercent(int percent);<br>
-setText(String text);<br>
-setTextSize(int size);<br>
-setArcColor(int color);<br>
-setPointerColor(int color);<br>
-setArcWidth(int width);<br>
-setPointerColor(int color);<br>
-setAcrStartColor(int acrStartColor);<br>
+setPercent(int percent);
+setText(String text);
+setTextSize(int size);
+setArcColor(int color);
+setPointerColor(int color);
+setArcWidth(int width);
+setPointerColor(int color);
+setAcrStartColor(int acrStartColor);
 setAcrEndColor(int acrEndColor);<br>
 setUnit(String unit);<br>
 ```
