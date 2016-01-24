@@ -6,18 +6,19 @@
 #How to use
 
 add a PanelView.PanelView into your xml <br>
-、、、html
+```
 <PanelView.PanelView
         android:id="@+id/panView"
         panel:Unit=" Km/h"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="当前速度"/>
-、、、
+```
         
 more attrs to see values/attr,you can choose attr you need<br>
 
 you can also change attr by calling method like,more details to see PanelView.java
+```
 setPercent(int percent);<br>
 setText(String text);<br>
 setTextSize(int size);<br>
@@ -28,6 +29,7 @@ setPointerColor(int color);<br>
 setAcrStartColor(int acrStartColor);<br>
 setAcrEndColor(int acrEndColor);<br>
 setUnit(String unit);<br>
+```
 
 
 #More to see my csdn blog
